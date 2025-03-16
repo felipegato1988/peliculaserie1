@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",No mires arriba (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisdici%2FVer%20No%20Miren%20Arriba%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/v1Wj5lzvsvFbXHdrmYGdXL10Q73.jpg",Black Widow (2021)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/pelicujulio%2FVer%20Viuda%20negra%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 
@@ -138,55 +141,55 @@ https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",Los diez mandamientos (1956)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Los%20Diez%20Mandamientos%20(1956)%20Online%20Latino%20HD%20-%20Cuevana%20HD.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ecz83StK0eK8Rnio8TCmhbtVU98.jpg",Hijo de Dios (2014)
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/ecz83StK0eK8Rnio8TCmhbtVU98.jpg",Hijo de Dios (2014)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Hijo%20de%20Dios%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",Ben-Hur (1959)
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",Ben-Hur (1959)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20Ben-Hur%20(1959)%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
 
 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/c21ON7BZn0jwdNl6ibZ1vhXJmpy.jpg",La historia más grande jamás contada (1965)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2Fcristianas%2FVer%20La%20Historia%20M%C3%A1s%20Grande%20Jam%C3%A1s%20Contada%20(1965)%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="movie",R.I.P.D. 2 (2022)
+#EXTINF:-1 group-title="peliculas" tvg-logo="movie",R.I.P.D. 2 (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20R.I.P.D.%202-%20Rise%20of%20the%20Damned%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1MIDERaEUMw1rYDM99tGZPY80Ap.jpg",El vuelo de los ladrones (2023)
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/1MIDERaEUMw1rYDM99tGZPY80Ap.jpg",El vuelo de los ladrones (2023)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2FVer%20El%20vuelo%20de%20los%20ladrones%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5wpVy0KUWzDKDKgrayM0Q8lXOiK.jpg",Misterio a la vista (2023)
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/5wpVy0KUWzDKDKgrayM0Q8lXOiK.jpg",Misterio a la vista (2023)
 https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisabr23%2FVer%20Murder%20Mystery%202%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",Sin novedad en el frente (2022)
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",Sin novedad en el frente (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Foctubr%2FVer%20Sin%20novedad%20en%20el%20frente%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sT1XW0Mx5SEnpuTKNLYDWxRHtdn.jpg",Dead Zone (2022)
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/sT1XW0Mx5SEnpuTKNLYDWxRHtdn.jpg",Dead Zone (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Dead%20Zone%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",Todo en todas partes al mismo tiempo (2022)
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",Todo en todas partes al mismo tiempo (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Todo%20En%20Todas%20Partes%20Al%20Mismo%20Tiempo%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",Ant-Man y la Avispa: Quantumanía (2023) 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",Ant-Man y la Avispa: Quantumanía (2023) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Ant-Man%20and%20the%20Wasp-%20Quantumania%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tBiUXvCqz34GDeuY7jK14QQdtat.jpg",Los Caballeros del Zodiaco (2023)
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/tBiUXvCqz34GDeuY7jK14QQdtat.jpg",Los Caballeros del Zodiaco (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Los%20Caballeros%20del%20Zodiaco-%20Saint%20Seiya%20-%20El%20inicio%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",Calabozos y Dragones: Honor entre ladrones (2023)
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",Calabozos y Dragones: Honor entre ladrones (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Calabozos%20%26%20Dragones-%20Honor%20entre%20ladrones%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg",El exorcista del papa (2023)
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg",El exorcista del papa (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20El%20exorcista%20del%20papa%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",Crater (2023)
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",Crater (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Cr%C3%A1ter%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",Oppenheimer: el dilema de la bomba atómica (2023)
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",Oppenheimer: el dilema de la bomba atómica (2023)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Oppenheimer-%20el%20dilema%20de%20la%20bomba%20at%C3%B3mica%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg",Unos suegros de armas tomar (2023)
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg",Unos suegros de armas tomar (2023)
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Unos%20suegros%20de%20armas%20tomar%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",Demonio negro (2023) (CAM)
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",Demonio negro (2023) (CAM)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Demonio%20negro%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",John Wick 4 (2023)
