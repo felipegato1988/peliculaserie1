@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas", tvg-logo="https://i.pinimg.com/474x/e6/16/97/e616977e768d6bee30bb62af43794e48.jpg" AH� VIENE EL CASCARRABIAS
+http://ia801505.us.archive.org/18/items/yevadi_jbnote_00/00.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.sincroguia.tv/uploads/series/grandes-documentales-africa-extrema-poster-37406_V.jpg",AFRICA EXTREMA
 http://archive.org/download/009_20200823/001.mp4
 
@@ -482,6 +485,13 @@ http://ia802200.us.archive.org/26/items/Peliculas-wii/Un%20Jefe%20en%20Pa%C3%B1a
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg",El extra navideño del Bebé Jefazo (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/63aa1b0ddb369_4EENNumero4k_F.mp4
+
+#EXTINF:-1 group-title="AGUAS DOCUMENTAL",AGUAS INVISIBLES
+http://archive.org/download/009_20200823/002.mp4
+#EXTINF:-1 group-title="AGUAS DOCUMENTAL",AGUAS TRANQUILAS
+http://archive.org/download/009_20200823/003.mp4
+#EXTINF:-1 group-title="AGUAS DOCUMENTAL",AGUAS TROPICALES
+http://archive.org/download/009_20200823/004.mp4
 
 #EXTINF:-1 group-title="AGENTE 007 JAMES BOND ",AGENTE 007 JAMES BOND 1
 http://archive.org/download/mio53_yopmail_1/1.mp4
