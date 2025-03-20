@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.sincroguia.tv/uploads/series/grandes-documentales-africa-extrema-poster-37406_V.jpg",AFRICA EXTREMA
+http://archive.org/download/009_20200823/001.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/11/01/3655834.jpg",AD ASTRA 2019
+http://ia801406.us.archive.org/4/items/000_20200129_20200129_0445/2.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Action_Point-226342363-large.jpg",ACTION POINT (CASTELLANO)
+http://archive.org/download/ap94vid20104xwoe0/AP394vId2010904xwoe0Q.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images.cdn1.buscalibre.com/fit-in/360x360/40/21/402135de29b277dd8afeb26e04c335a4.jpg",ABRAHAN LINCON CAZADOR DE VAMPIROS
+http://archive.org/download/angel_erika_92_hotmail_0/AbrahanLinconCazadorDeVampiros.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fa8a173332637620d4ad81453a8bd8e87c198bb47a86f0bde36ca95768268937.jpg",8 MILLAS
+http://archive.org/download/imagen-1_202005/4.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/61HI8GuxJ+L._AC_UF894,1000_QL80_.jpg", 31 Minutos la pelicula
+http://archive.org/download/31m1nu70/31M%2C%20La%20Pelicula.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.debate.com.mx/img/2017/03/30/3_idiotas-992784555-large.jpg?__scale=c:transparent,w:640,h:913,t:3", 3 IDIOTAS
+http://ia601405.us.archive.org/26/items/000_20200306_202003/03.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/28/00/53/2054844.jpg", A TODOS LOS CHICOS P D TODAVIA TE QUIERO
+http://archive.org/download/5_20200304_20200304/7.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/%D9%BE%D9%86%D8%AC%D8%AA%D9%87_%D9%BE%D8%A7_%D8%AC%D8%A4%D8%AF%D8%A7.png", A 47 METROS DE TI
+http://ia801504.us.archive.org/7/items/000_20200306_20200306_0448/06.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA1OGFjMGQtZjI2Ny00YjU2LWFhYTAtNjMxNWU3OTRkMDFlXkEyXkFqcGc@._V1_.jpg" ,95 MUNDOS
+http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn.mp4
+
 #EXTINF:-1 group-title="peliculas"  tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Sylvanian_Families_la_pelaicula_El_regalo_de_Freya-890102680-large.jpg",Sylvanian Families La Película: El Regalo de Freya
 http://ia902200.us.archive.org/26/items/Peliculas-wii/Sylvanian%20Families%20La%20Pelicula%20-%20El%20regalo%20de%20Freya.mp4
 
@@ -452,6 +482,19 @@ http://ia802200.us.archive.org/26/items/Peliculas-wii/Un%20Jefe%20en%20Pa%C3%B1a
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg",El extra navideño del Bebé Jefazo (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/63aa1b0ddb369_4EENNumero4k_F.mp4
+
+#EXTINF:-1 group-title="AGENTE 007 JAMES BOND ",AGENTE 007 JAMES BOND 1
+http://archive.org/download/mio53_yopmail_1/1.mp4
+#EXTINF:-1 group-title="AGENTE 007 JAMES BOND ",AGENTE 007 JAMES BOND 2
+http://archive.org/download/mio53_yopmail_2/2.mp4
+#EXTINF:-1 group-title="AGENTE 007 JAMES BOND ",AGENTE 007 JAMES BOND 3
+http://archive.org/download/mio53_yopmail_3/3.mp4
+#EXTINF:-1 group-title="AGENTE 007 JAMES BOND ",AGENTE 007 JAMES BOND 4
+http://archive.org/download/mio53_yopmail_4/4.mp4
+#EXTINF:-1 group-title="AGENTE 007 JAMES BOND ",AGENTE 007 JAMES BOND 5
+http://archive.org/download/mio53_yopmail_5/5.mp4
+#EXTINF:-1 group-title="AGENTE 007 JAMES BOND ",AGENTE 007 JAMES BOND 6
+http://archive.org/download/mio53_yopmail_6/6.mp4
 
 
 #EXTINF:-1 group-title="serie COREA"  tvg-logo="https://image.tmdb.org/t/p/w500",COREA6
