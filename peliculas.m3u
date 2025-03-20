@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/ojavJiW2YPeZhePBLTrZ8jwdp8l.jpg",
+http://ia801508.us.archive.org/27/items/ConanElDestructorLat1080/conan%20el%20destructor%20lat%201080.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/91ZUmHq+gKL.jpg",COMO ENTRENAR A TU DRAGON
+http://ia801501.us.archive.org/29/items/000_20200317_20200317/01.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/how_to_train_your_dragon_2-253866491-large.jpg",COMO ENTRENAR A TU DRAGON 2
+http://ia601501.us.archive.org/29/items/000_20200317_20200317/002.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/06/08/16/12/1223663.jpg",COMO ENTRENAR A TU DRAGON 3
+http://ia801501.us.archive.org/29/items/000_20200317_20200317/03.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://play-lh.googleusercontent.com/udgrzs7_jjTpKFfC8WP-5fNjmgrTW7RwZ7xuxPyBioNy-8RrJmC8cu_pHUvCKXMsa2Oc",COMANDO KILL
+http://ia801500.us.archive.org/17/items/000_20191202_20191202/4.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/92/94/88/20226785.jpg",COLEGAS DEL BARRIO
 http://ia801402.us.archive.org/13/items/000_20200227/03.mp4
 
