@@ -1,5 +1,60 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVjMDEzNjMtMWJmMy00NDdjLWFkMzItOTBhZTE3OWU0YmM4XkEyXkFqcGc@._V1_.jpg",IP MAN 4
+http://ia601406.us.archive.org/25/items/000_20200304_20200304/01.mp4
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTU4YTUzNGMtZjUyZC00MWU3LWFiZmItMmIwMDA5YmViNGU3XkEyXkFqcGc@._V1_.jpg",I AM MOTHER
+http://ia601502.us.archive.org/23/items/0o2b38sn29s1/0a7wbs51b00.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTU4YTUzNGMtZjUyZC00MWU3LWFiZmItMmIwMDA5YmViNGU3XkEyXkFqcGc@._V1_.jpg",HITMAN
+http://ia801302.us.archive.org/16/items/HI7M4N/HI7M4N.463N7.47-360-ES.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/03/28/17/16/4082376.jpg",HELLBOY 2019
+http://ia601405.us.archive.org/26/items/000_20200306_202003/04.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQerta7sx_7QaEF57twgDbMwZmOvPsCvsD3bw&s",HACKER
+http://ia601500.us.archive.org/17/items/000_20191202_20191202/1.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images.justwatch.com/poster/11115961/s718/el-guru-de-las-bodas.jpg",GURU DE BODAS
+http://ia801402.us.archive.org/16/items/terugi_newairmail_11/11.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.kobo.com/book-images/bca3d94b-d420-481d-ac36-69e0a766d193/1200/1200/False/frozen-2-disney-frozen-2.jpg",FROZEN 2
+http://ia601506.us.archive.org/27/items/0_20200218_20200218/301.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod/images/espias-con-disfraz-poster-castellano-1563270579.jpg",ESPIAS CON DISFRAZ
+http://ia601507.us.archive.org/7/items/000_20200301_202003/03.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/18/07/18/09/54/4158587.jpg",ESCUELA PARA FRACASADOS
+http://ia801406.us.archive.org/4/items/000_20200129_20200129_0445/4.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMzMGZlYTYtY2JiNi00ODVmLWIxZmItNWMxYTFkZTk2ODEyXkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg",EL REGALO PROMETIDO
+http://ia601503.us.archive.org/19/items/000_20191209_20191209_1845/2.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/8/w1280/9JZcc0EgHbvAwt9iFJIot4wNapY.jpg",EL PAQUETE
+http://ia601402.us.archive.org/22/items/6wQiVCGFZj4jj4A/6wQiVCGFZj4jj4A.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/15/01/26/13/38/226702.jpg",EL LIBRO DE LA VIDA
+http://ia601407.us.archive.org/35/items/kevomisig_directmail24_0002/0002.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD5aP3vrDOK7LGEfohtUQaj5A8kSEWT0DZpw&s",EL ESCUADRON DEL DIABLO
+http://ia601505.us.archive.org/32/items/000_20200122_20200122/5.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmQzN2ViM2EtNDgwMi00ZTZiLWI1YmEtYTE1NGM1M2FkODI1XkEyXkFqcGc@._V1_.jpg",DESTRUCCION LOS ANGELES
+http://ia801509.us.archive.org/29/items/ziduyaliri_mail-register_08/08.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://play-lh.googleusercontent.com/d-mVSwpPGHbWoDZOLAfQTAne9fZ5VAZ5BXEUJiMb1FvPFYDz5Y_3ddB_k-52VueykQ39",DE TONTA NADA
+http://ia801400.us.archive.org/11/items/000_20200130_202001/5.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDc0NTNlZGEtOWRjOC00ZjE4LTllMWYtNmM5YTI3ODE0ODA5XkEyXkFqcGc@._V1_.jpg",DC SUPER HERO GIRLS LEGENDS OF ATLANTIS
+http://ia801506.us.archive.org/18/items/sototo_patonce_01/01.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/65/16/95/20103292.jpg",CROMOSOMA 3
+http://ia902800.us.archive.org/12/items/1057214727/1057214727.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.benitomovieposter.com/catalog/images/movieposter/30702.jpg",CORTO CIRCUITO 2
+http://ia601406.us.archive.org/4/items/000_20200129_20200129_0445/3.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/ojavJiW2YPeZhePBLTrZ8jwdp8l.jpg",
 http://ia801508.us.archive.org/27/items/ConanElDestructorLat1080/conan%20el%20destructor%20lat%201080.mp4
 
