@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="peliculas", tvg-logo="https://i.pinimg.com/474x/e6/16/97/e616977e768d6bee30bb62af43794e48.jpg" AH� VIENE EL CASCARRABIAS
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/c3/6a/c6/c36ac6ca1fba1ff7b7bd2a778832d8fa.jpg",AKIRA
+http://archive.org/download/0_20200417_202004/1.mp4
+
+#EXTINF:-1 group-title="peliculas", tvg-logo="https://i.pinimg.com/474x/e6/16/97/e616977e768d6bee30bb62af43794e48.jpg", AH� VIENE EL CASCARRABIAS
 http://ia801505.us.archive.org/18/items/yevadi_jbnote_00/00.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.sincroguia.tv/uploads/series/grandes-documentales-africa-extrema-poster-37406_V.jpg",AFRICA EXTREMA
