@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas",TROLLS 2
+http://ia601400.us.archive.org/1/items/0000_20200416_202004/04.mp4
+
+#EXTINF:-1 group-title="peliculas",TODO PODEROSO (OPC2)
+http://ia801404.us.archive.org/24/items/terugi_newairmail_14/14.mp4
+
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://pics.filmaffinity.com/Tienda_de_unicornios-192804273-large.jpg",TIENDA DE UNICORNIOS
+http://ia801401.us.archive.org/7/items/ziduyaliri_mail-register_03/03.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqBXPaRlcZQ5kbpoR0IOP_o11_wKqv5AS0nQ&s",TERRA WILLY
+http://ia801401.us.archive.org/5/items/18092064327status5752751c537e4dd6a1fd54293b37e439_20191220/Wi11yT3rr4.mp4
+
+#EXTINF:-1 group-title="peliculas",SHARK
+http://ia801409.us.archive.org/30/items/000_20200106/4.mp4
+
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ4OGFjMzctODJlYi00ODU5LWI5YWEtMjc4YjA4MjA2NDRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",QUISIERA SER GRANDE
+http://ia801405.us.archive.org/2/items/ziduyaliri_mail-register_02/02.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/OVNI_No_estamos_solos-864911387-large.jpg",OVNI NO ESTAMOS SOLOS
+http://ia601401.us.archive.org/12/items/000_20191205_201912/2.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQodw_d8_MIRsReaUlSWpidaHm1lxY0dSqhg&s",NORBIT (2007)
+http://ia601507.us.archive.org/32/items/ElBoleroDeRaquelWWw.DescargateloCorp.CoM/u289y4/NRBT.rplt-COMPUCALITV.COM.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/02/Dragon_nest.jpg/revision/latest?cb=20151222034802&path-prefix=es",NIDO DE DRAGONES
+http://ia601504.us.archive.org/20/items/Nido-de-dragon-amanecer-de-los-guerreros-completa-en-espan-ol-latino-peliculas-a_20200715/NIDO%20DE%20DRAGON_%20AMANECER%20DE%20LOS%20GUERREROS%20COMPLETA%20EN%20ESPA%C3%91OL%20LATINO%2C%20PELICULAS%20ANIMADAS%20COMPLETAS%20%28%20346%20X%20640%20%29.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTUzYzI0ZWEtNDgxNC00NDU3LWFkNDctMzY5ZjQ0OTg5YWQxXkEyXkFqcGc@._V1_.jpg",MI PRIMER GRAN COMBATE
+http://ia601400.us.archive.org/1/items/0000_20200416_202004/02.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://images.cdn2.buscalibre.com/fit-in/360x360/33/4a/334a8e578cacfbc761c0268d53cb5213.jpg",MAQUINAS MORTALES
 http://ia601507.us.archive.org/11/items/000_20191203/3.mp4
 
