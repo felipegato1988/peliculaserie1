@@ -1,5 +1,47 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images.cdn2.buscalibre.com/fit-in/360x360/33/4a/334a8e578cacfbc761c0268d53cb5213.jpg",MAQUINAS MORTALES
+http://ia601507.us.archive.org/11/items/000_20191203/3.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/16/34/19109620.jpg",LOS MUNDOS DE CORALINE
+http://ia801407.us.archive.org/20/items/tosey_freehotmail_01/01.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/14/09/12/10/51/011753.jpg",LOS JUEGOS DEL HAMBRE  SINSAJO  P2
+http://ia800204.us.archive.org/6/items/7H3.HU7/7H3.HUN639.64M35.M0CKIN6J4Y.P497.2-ES-360.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Looper-874353819-large.jpg",LOOPER
+http://ia601509.us.archive.org/16/items/2_20191128_20191128_1720/15.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2011/4/w1280/pqKF9xBXPRxwyHK7dyagnsIBcPT.jpg",LINTERNA VERDE CABALLEROS ESMERALDA
+http://ia601509.us.archive.org/26/items/meyize_hurify1_F1n/l1n.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Las_aventuras_del_doctor_Dolittle-216490003-large.jpg",LAS AVENTURAS DEL DOCTOR DOLITTLE 2020
+http://ia801507.us.archive.org/7/items/000_20200301_202003/02.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/spider_in_the_web-365463767-mmed.jpg",LA TRAMPA DE LA ARA�A
+http://ia601402.us.archive.org/10/items/000_20200304_20200304_2245/03.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/8/w1280/yFWP8BSOVC8tQ3NI34gfvEhUqZl.jpg",LA SIRENITA 2
+http://ia601502.us.archive.org/17/items/silonuber_mozej_0/2.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images.cdn3.buscalibre.com/fit-in/360x360/53/2a/532ad37d91788a04474e63c443ba9265.jpg",LA MUERTE DE SUPERMAN
+http://ia601403.us.archive.org/26/items/4490f-394ea-4bed-259f-39f-924b-1c-38ddd-480p/4490f394ea4bed259f39f924b1c38ddd-480p.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhjZWQ3NjctYTJkOS00MTlmLWFkNTAtOTE2NWYwNjRhMjRhXkEyXkFqcGc@._V1_.jpg",LA MARAVILLA
+http://ia601504.us.archive.org/29/items/000_20200127_202001/1.mp4
+
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f8/LaLeyendaDeKlausPoster.png/revision/latest?cb=20200731232553&path-prefix=es",LA LEYENDA DE KLAUS
+http://ia601504.us.archive.org/7/items/000_20200306_20200306_0448/07.mp4
+
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://musicart.xboxlive.com/7/af491100-0000-0000-0000-000000000002/504/image.jpg?q=90&m=6&h=270&w=270&b=%23FFFFFFFF&f=jpg&o=f&aim=true",LA JUNGLA UN BUEN DIA PARA MORIR
+http://ia601507.us.archive.org/16/items/5_20191128_201911/8.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fc3d973085d5f2afd1f0272ee78dedc27933de2fe11e9c585599bb0f2efca0d5.jpg",JUMANJI NEXT LEVEL
+http://ia601404.us.archive.org/17/items/00000_20200414_0245/02.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/19/08/01/10/23/4884537.jpg",JUGANDO CON FUEGO
+http://ia601509.us.archive.org/23/items/000_20200122_202001/5.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThfwfLECwK3mJmDMh3U_hdiVcST832ggqHMA&s",JUEGO LETAL
 http://ia601408.us.archive.org/20/items/000_20191216/3.mp4
 
