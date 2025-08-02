@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://image.tmdb.org/t/p/original/qxx4CpV2T3zXKot3qSm8RxgQ5sE.jpg",JOVEN MANO DE TIJERAS
+https://seed125.bitchute.com/XPOJ1Hq2IAl0/i8fSPBVOdCQg.mp4
+
 #EXTINF:-1 group-title="peliculas",LA SIRENITA 2
 http://ia601502.us.archive.org/17/items/silonuber_mozej_0/2.mp4
 
@@ -1310,3 +1313,4 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2025%20-%20La%20Vida%20es%20Dif%C3%ADcil.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/super-mario-logo-A8E04F3EC2-seeklogo.com.png" group-title="Series|Las aventuras de los Super Hermanos Mario",Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
