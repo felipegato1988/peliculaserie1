@@ -3,13 +3,13 @@
 #EXTINF:-1 group-title="peliculas"  tvg-logo="https://image.tmdb.org/t/p/original/qxx4CpV2T3zXKot3qSm8RxgQ5sE.jpg",JOVEN MANO DE TIJERAS
 https://seed125.bitchute.com/XPOJ1Hq2IAl0/i8fSPBVOdCQg.mp4
 
-#EXTINF:-1 group-title="peliculas",LA SIRENITA 2
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://pics.filmaffinity.com/the_little_mermaid_ii_return_to_the_sea-228674558-large.jpg", LA SIRENITA 2
 http://ia601502.us.archive.org/17/items/silonuber_mozej_0/2.mp4
 
-#EXTINF:-1 group-title="peliculas",LA SIRENITA 3
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/817QdjoqfiL._SL1441_.jpg", LA SIRENITA 3
 http://ia801502.us.archive.org/17/items/silonuber_mozej_0/3.mp4
 
-#EXTINF:-1 group-title="peliculas",TODO PODEROSO (OPC2)
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.covercaratulas.com/ode/mini/carteles-16852.jpg", TODO PODEROSO (OPC2)
 http://ia801404.us.archive.org/24/items/terugi_newairmail_14/14.mp4
 
 #EXTINF:-1 group-title="peliculas"  tvg-logo="https://pics.filmaffinity.com/Tienda_de_unicornios-192804273-large.jpg",TIENDA DE UNICORNIOS
@@ -18,7 +18,7 @@ http://ia801401.us.archive.org/7/items/ziduyaliri_mail-register_03/03.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqBXPaRlcZQ5kbpoR0IOP_o11_wKqv5AS0nQ&s",TERRA WILLY
 http://ia801401.us.archive.org/5/items/18092064327status5752751c537e4dd6a1fd54293b37e439_20191220/Wi11yT3rr4.mp4
 
-#EXTINF:-1 group-title="peliculas",SHARK
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jaws_movie_poster.jpg/800px-Jaws_movie_poster.jpg", SHARK
 http://ia801409.us.archive.org/30/items/000_20200106/4.mp4
 
 #EXTINF:-1 group-title="peliculas"  tvg-logo="https://m.media-amazon.com/images/M/MV5BNGQ4OGFjMzctODJlYi00ODU5LWI5YWEtMjc4YjA4MjA2NDRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",QUISIERA SER GRANDE
@@ -78,7 +78,7 @@ http://ia601509.us.archive.org/23/items/000_20200122_202001/5.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThfwfLECwK3mJmDMh3U_hdiVcST832ggqHMA&s",JUEGO LETAL
 http://ia601408.us.archive.org/20/items/000_20191216/3.mp4
 
-#EXTINF:-1 group-title="peliculas",JUEGOS DE ESPIAS
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://decine21.com/img/upload/obras/juego-de-espias-la-ciudad-eterna-48933/juego-de-espias-la-ciudad-eterna-48933-c.jpg", JUEGOS DE ESPIAS
 http://ia601506.us.archive.org/9/items/0000_20200416/01.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/03/5442885.jpg",JOKER
@@ -204,7 +204,7 @@ http://ia601503.us.archive.org/19/items/000_20191209_20191209_1845/1.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2018/12/Afiche-atentadoenelestadio.jpg",ATENTADO EN EL ESTADIO
 http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/1.mp4
 
-#EXTINF:-1 group-title="peliculas",APOCALISPSIS
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://www.supercines.com/MovieImages/20250109Mov003/xxhdpi.jpg",APOCALISPSIS
 http://ia601505.us.archive.org/20/items/000_20200317_20200317_1332/06.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/9YZeyalCdYtrJ4U6hl2J9cyI8iq.jpg",ANGELES DE CHARLIE
@@ -1313,4 +1313,5 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2025%20-%20La%20Vida%20es%20Dif%C3%ADcil.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/super-mario-logo-A8E04F3EC2-seeklogo.com.png" group-title="Series|Las aventuras de los Super Hermanos Mario",Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
 
