@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://image.tmdb.org/t/p/original/vfCd2rbvC8yAk4EitHPZCyPNMQD.jpg", ARMA MORTAL 2
+https://seed306.bitchute.com/XPOJ1Hq2IAl0/KVik8gZHl0At.mp4
+
 #EXTINF:-1 group-title="peliculas"  tvg-logo="https://image.tmdb.org/t/p/original/qxx4CpV2T3zXKot3qSm8RxgQ5sE.jpg",JOVEN MANO DE TIJERAS
 https://seed125.bitchute.com/XPOJ1Hq2IAl0/i8fSPBVOdCQg.mp4
 
@@ -709,13 +712,13 @@ http://ia802200.us.archive.org/26/items/Peliculas-wii/Un%20Jefe%20en%20Pa%C3%B1a
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg",El extra navideño del Bebé Jefazo (2022)
 https://d1yei2z3i6k35z.cloudfront.net/2104853/63aa1b0ddb369_4EENNumero4k_F.mp4
 
-#EXTINF:-1 group-title="John Wick",JOHN WICK 1
+#EXTINF:-1 group-title="John Wick" tvg-logo="https://www.limitedruns.com/media/cache/8e/80/8e800d298415b21c825ea38f9e30fbe1.jpg",JOHN WICK 1
 http://ia601408.us.archive.org/20/items/000_20191216/5.mp4
-#EXTINF:-1 group-title="John Wick",JOHN WICK 2
+#EXTINF:-1 group-title="John Wick" tvg-logo="https://render.fineartamerica.com/images/rendered/default/poster/6/8/break/images/artworkimages/medium/3/john-wick-2-bo-kev.jpg",JOHN WICK 2
 http://ia801504.us.archive.org/13/items/000_20191225/5.mp4
-#EXTINF:-1 group-title="John Wick",JOHN WICK 3
+#EXTINF:-1 group-title="John Wick"  tvg-logo="https://assets1.ignimgs.com/2019/03/21/john-wick-chapter-three-ver14-button-1553191676726.jpg", JOHN WICK 3
 http://ia601504.us.archive.org/13/items/000_20191225/1.mp4
-#EXTINF:-1 group-title="John Wick" ,John Wick 4 (2023)
+#EXTINF:-1 group-title="John Wick" tvg-logo="https://image.tmdb.org/t/p/original/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg", John Wick 4 (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
 
 #EXTINF:-1 group-title="AGUAS DOCUMENTAL",AGUAS INVISIBLES
@@ -1314,6 +1317,7 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2025%20-%20La%20Vida%20es%20Dif%C3%ADcil.mp4
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/super-mario-logo-A8E04F3EC2-seeklogo.com.png" group-title="Series|Las aventuras de los Super Hermanos Mario",Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
 
 
 
