@@ -747,6 +747,8 @@ http://ia801504.us.archive.org/13/items/000_20191225/5.mp4
 http://ia601504.us.archive.org/13/items/000_20191225/1.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg", John Wick 4 (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/hAdkgE8lHelIQWpgrHk4wjEnbxQ.jpg",La Bestia (2022)
+https://d1yei2z3i6k35z.cloudfront.net/2102480/631b7efe50c38_96BSTNumero4k_A.mp4
 
 #EXTINF:-1 group-title="AGUAS DOCUMENTAL",AGUAS INVISIBLES
 http://archive.org/download/009_20200823/002.mp4
@@ -786,8 +788,6 @@ https://d1yei2z3i6k35z.cloudfront.net/2102480/62b5cec55e50a_1x1LCDPCNumero4k_A.m
 https://d1yei2z3i6k35z.cloudfront.net/2102480/63289b0421a7f_1x5LCDDNUMERO4K_a.mp4
 #EXTINF:-1 group-title="serie DRAGON" tvg-logo="https://image.tmdb.org/t/p/w500",DRAGON4
 https://d1yei2z3i6k35z.cloudfront.net/2102480/631f6bad93e1b_1x4LCDDNUMERO4K_a.mp4
-#EXTINF:-1 group-title="serie DRAGON" tvg-logo="https://image.tmdb.org/t/p/w500/hAdkgE8lHelIQWpgrHk4wjEnbxQ.jpg",La Bestia (2022)
-https://d1yei2z3i6k35z.cloudfront.net/2102480/631b7efe50c38_96BSTNumero4k_A.mp4
 #EXTINF:-1 group-title="serie DRAGON" tvg-logo="https://image.tmdb.org/t/p/w500",DRAGON3
 https://d1yei2z3i6k35z.cloudfront.net/2102480/6316167893fa6_1x3LCDDNUMERO4K_a.mp4
 #EXTINF:-1 group-title="serie DRAGON" tvg-logo="https://image.tmdb.org/t/p/w500",LA CASA DEL DRAGON
@@ -795,23 +795,23 @@ https://d1yei2z3i6k35z.cloudfront.net/2102480/6313eba9b6c00_1x1LCDDNUMERO4K_a.mp
 #EXTINF:-1 group-title="serie DRAGON"  tvg-logo="https://image.tmdb.org/t/p/w500",DRAGON2
 https://d1yei2z3i6k35z.cloudfront.net/2102480/6313e8e04ce06_1x2LCDDNUMERO4K_a.mp4
 
-#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://image.tmdb.org/t/p/w500",STRANGER9
+#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",STRANGER9
 https://d1yei2z3i6k35z.cloudfront.net/2102480/62c088abc0a35_4x9STNumero4k_F.mp4
-#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://image.tmdb.org/t/p/w500",STRANGER8
+#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",STRANGER8
 https://d1yei2z3i6k35z.cloudfront.net/2102480/62c088a6c13de_4x8STNumero4k_F.mp4
-#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://image.tmdb.org/t/p/w500",STRANGER7
+#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",STRANGER7
 https://d1yei2z3i6k35z.cloudfront.net/2102480/6290fec1d24fb_4x7STNumero4k_F.mp4
-#EXTINF:-1 group-title="serie STRANGER THINGS"tvg-logo="https://image.tmdb.org/t/p/w500",STRANGER6
+#EXTINF:-1 group-title="serie STRANGER THINGS"tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",STRANGER6
 https://d1yei2z3i6k35z.cloudfront.net/2102480/6290febd47585_4x6STNumero4k_F.mp4
-#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://image.tmdb.org/t/p/w500",STRANGER5
+#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",STRANGER5
 https://d1yei2z3i6k35z.cloudfront.net/2102480/6290feb865bed_4x5STNumero4k_F.mp4
-#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://image.tmdb.org/t/p/w500",STRANGER4
+#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",STRANGER4
 https://d1yei2z3i6k35z.cloudfront.net/2102480/6290f3c4cf0fb_4x4STNumero4k_F.mp4
-#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://image.tmdb.org/t/p/w500",STRANGER3
+#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",STRANGER3
 https://d1yei2z3i6k35z.cloudfront.net/2102480/6290f3bf699a4_4x3STNumero4k_F.mp4
-#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://image.tmdb.org/t/p/w500",STRANGER2
+#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",STRANGER2
 https://d1yei2z3i6k35z.cloudfront.net/2102480/6290f3b806ae5_4x2STNumero4k_F.mp4
-#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://image.tmdb.org/t/p/w500",STRANGER THINGS 4
+#EXTINF:-1 group-title="serie STRANGER THINGS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg2NmM0MTEtYWY2Yy00NmFlLTllNTMtMjVkZjEwMGVlNzdjXkEyXkFqcGc@._V1_.jpg",STRANGER THINGS 4
 https://d1yei2z3i6k35z.cloudfront.net/2102480/6290ece9e6bf9_4x1STNumero4k_F.mp4
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/67/e1/51/67e1512f54966890434be5ca9356c8fa.jpg" group-title="Series|Las aventuras de Tintin",Las aventuras de Tintin - E1 Tintín en América
@@ -1345,6 +1345,7 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2025%20-%20La%20Vida%20es%20Dif%C3%ADcil.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eY8zJX8SjzAVyGV19YsJzK186Md.jpg" group-title="Series|Las aventuras de los Super Hermanos Mario",Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
 
 
 
