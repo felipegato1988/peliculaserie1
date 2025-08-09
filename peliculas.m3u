@@ -1,6 +1,31 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Otra_pel%C3%ADcula_de_huevos_y_un_pollo_poster.jpg", otra pelicula de huevos y un pollo 
+https://smoothpre.com/stream/Z7D_b7Q_mFLb2ZMTdmMpJg/hjkrhuihghfvu/1754824434/11888862/index-f2-v1-a1.m3u8
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2023/09/Poster-web_Guardiana-Del-Bosque.jpg", mavka guardiana del bosque
+https://smoothpre.com/stream/I5L9ej1B5D4IMhRtbCNfxg/hjkrhuihghfvu/1754824276/5874386/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e1c69212c2754cac9522ff7a7d9908725cc6a86c4f08ae2f77c2ef6a0234a8ae.jpg", la leyenda del chupacabras
+https://smoothpre.com/stream/QQwCB4L5-Fj1z9JM48VzzQ/hjkrhuihghfvu/1754824069/11888816/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2024/10/cazatesoros-web.jpg", busca tesoros 
+https://smoothpre.com/stream/ebbZLboqgXOKQ4o-GNqDog/hjkrhuihghfvu/1754823595/19355551/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/articles/33621/329622/trailer-y-poster-de-venom-el-ultimo-baile-original.jpg", venom el ultimo baile
+https://smoothpre.com/stream/L3yYbF7D8T7I4pAeUgqVCg/hjkrhuihghfvu/1754823418/15629615/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/b7869063f88dea2417770a64e5603eabfe3764c41ba76eda16a9c85ec22a0593.jpg", el señor del viento
+https://smoothpre.com/stream/S3gzaNddDedPqncUuQBrzw/hjkrhuihghfvu/1754823078/28809129/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUzYmFmMDYtNzMyOC00OWMwLTk2MTYtNTY0YTA5ZDFkNmYzXkEyXkFqcGc@._V1_.jpg", plankton la pelicula
+https://smoothpre.com/stream/UD89tJ-txBLdlW3SOTzpoA/hjkrhuihghfvu/1754822958/20465168/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2I0YTJlMzEtNDJiYi00NTA2LTlmOTQtMjEyOWQwMzhhYWU3XkEyXkFqcGc@._V1_.jpg", overlord el reino sagrado
+https://smoothpre.com/stream/mHa3MkSFJ7FzBNxQhOsIVA/hjkrhuihghfvu/1754822566/24003361/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/nHhjqeJcaQKOBCd21c1kV2DK5gm.jpg", mufasa
+https://smoothpre.com/stream/Q6hwDryQ4m2ieznBfuR7lg/hjkrhuihghfvu/1754822382/19600034/index-v1-a1.m3u8
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ebayimg.com/images/g/eMgAAOSwAYlnOxeb/s-l1200.jpg", flow
 https://smoothpre.com/stream/BB6tdBAma5V8IWqDs-2oSw/hjkrhuihghfvu/1754822178/17860887/index-v1-a1.m3u8
@@ -1448,6 +1473,7 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2025%20-%20La%20Vida%20es%20Dif%C3%ADcil.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eY8zJX8SjzAVyGV19YsJzK186Md.jpg" group-title="Series|Las aventuras de los Super Hermanos Mario",Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
 
 
 
