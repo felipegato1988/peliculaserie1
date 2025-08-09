@@ -2,6 +2,9 @@
 
 
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ebayimg.com/images/g/eMgAAOSwAYlnOxeb/s-l1200.jpg", flow
+https://smoothpre.com/stream/BB6tdBAma5V8IWqDs-2oSw/hjkrhuihghfvu/1754822178/17860887/index-v1-a1.m3u8
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUxYWI0YTYtMTAwOC00NDgxLTk3ZDUtZTFmZTRmZWJjNTM5XkEyXkFqcGc@._V1_.jpg", pitufos 3
 https://smoothpre.com/stream/Do2gSnzgpx2BsuRen5-5Eg/hjkrhuihghfvu/1754820170/28492887/index-f1-v1-a1.m3u8
 
@@ -1445,6 +1448,7 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2025%20-%20La%20Vida%20es%20Dif%C3%ADcil.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eY8zJX8SjzAVyGV19YsJzK186Md.jpg" group-title="Series|Las aventuras de los Super Hermanos Mario",Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
 
 
 
