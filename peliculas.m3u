@@ -1,5 +1,31 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUxYWI0YTYtMTAwOC00NDgxLTk3ZDUtZTFmZTRmZWJjNTM5XkEyXkFqcGc@._V1_.jpg", pitufos 3
+https://smoothpre.com/stream/Do2gSnzgpx2BsuRen5-5Eg/hjkrhuihghfvu/1754820170/28492887/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Transmorphers-676508707-mmed.jpg", transmorphers bestias mecanicas
+https://smoothpre.com/stream/W-r7lYkHmX8ZbkVmrFwIBA/hjkrhuihghfvu/1754820003/5220035/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://mx.web.img3.acsta.net/r_1280_720/img/9d/07/9d074dc2a5e48f69c8bfe8b805502151.jpg", estado electrico 
+https://smoothpre.com/stream/cfFSVUbMy9jdFDP3wBsW0g/hjkrhuihghfvu/1754819852/20520297/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://xl.movieposterdb.com/24_12/2024/18259086/xl_sonic-the-hedgehog-3-movie-poster_eb5c8246.jpg", sonic 3
+https://smoothpre.com/stream/7aYKjkc5BsFQLkRu8uCdBg/hjkrhuihghfvu/1754819714/16279232/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/r_1280_720/img/5e/7a/5e7a52d3746b5aa9ecb0d1fb509db128.jpg", el muro negro poster
+https://smoothpre.com/stream/o-IpbmC5TegDflQknYsykg/hjkrhuihghfvu/1754819471/28159560/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Moana_2-388586993-large.jpg", moana 2
+https://smoothpre.com/stream/VliIST52che3FClPDF3Csw/hjkrhuihghfvu/1754819282/14785313/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2JmMWI2ZTgtNGQ3NC00ODkyLWI2Y2QtYjhlZGZhNTIxMDE3XkEyXkFqcGc@._V1_.jpg", christmas cowboy
+https://smoothpre.com/stream/-6Q6wwRkQQs08g1Uo36Nig/hjkrhuihghfvu/1754818560/21618362/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://xl.movieposterdb.com/06_02/2004/0334541/xl_86935_0334541_0e12c50e.jpg", temblores 4 comienza la leyenda
+https://smoothpre.com/stream/fgFmOIbOLfN-PwhiHNrA1g/hjkrhuihghfvu/1754817980/8804837/index-f2-v1-a1.m3u8
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGI1OWJjMWUtOTNiNC00N2RlLWE3OTYtM2FmOGUzNTQxNzk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", wild wild west
 https://smoothpre.com/stream/OPaUFhKn4VIV6vDMIhfcLg/hjkrhuihghfvu/1754817303/9554185/index-f2-v1-a1.m3u8
 
@@ -1420,6 +1446,7 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2025%20-%20La%20Vida%20es%20Dif%C3%ADcil.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eY8zJX8SjzAVyGV19YsJzK186Md.jpg" group-title="Series|Las aventuras de los Super Hermanos Mario",Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
 
 
 
