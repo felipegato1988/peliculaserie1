@@ -1,5 +1,26 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGI1OWJjMWUtOTNiNC00N2RlLWE3OTYtM2FmOGUzNTQxNzk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", wild wild west
+https://smoothpre.com/stream/OPaUFhKn4VIV6vDMIhfcLg/hjkrhuihghfvu/1754817303/9554185/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAyMDc0NmItMDM4NS00N2ZkLTg5ZmMtMDYzY2NiNjhjOWEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", the five
+https://smoothpre.com/stream/5Qi1Fwzyb64n8JyjiIIulw/hjkrhuihghfvu/1754817119/5841201/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.wikia.nocookie.net/yatoroba/images/d/d5/Spirit_el_indomable.jpg/revision/latest?cb=20230130201515&path-prefix=es", spirit el corcel indomable 2
+https://smoothpre.com/stream/QJ6o_Fv-FhUahh0xDmeikg/hjkrhuihghfvu/1754816971/9139727/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI4MzkzNzQtYjA3MC00ZjE1LWI0NWUtMDdjNWQ3OTgxZTkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", hellraiser 1 los que traen el infierno
+https://smoothpre.com/stream/3FNzC_eFBBdcmp5uTM_cbg/hjkrhuihghfvu/1754816532/9233305/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/13_fantasmas-625408527-large.jpg", 13 fantasmas
+https://smoothpre.com/stream/3QRXiDGzKaPIQ7npWqJFAw/hjkrhuihghfvu/1754816340/9496016/index-f2-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2024/1/w1280/uHfddXNm1pOZDn4D8ttsZi1jcgT.jpg", jack en lacaja maldita 3
+https://smoothpre.com/stream/FadYaOyVm24iKcR8-hj4QQ/hjkrhuihghfvu/1754816097/9956717/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/all/movie/posters/1991/7/movie-17792/w1280/4967J6d5Gu6d97P05qiY9Hg4WE1.jpg", la profecia el renacer
+https://smoothpre.com/stream/upjyrYd1h-1KoWj22ESrYA/hjkrhuihghfvu/1754815857/9982867/index-f2-v1-a1.m3u8
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/51ORkLJ07VL._UF894,1000_QL80_.jpg", critters
 https://smoothpre.com/stream/_vJN8rXAyVlQx4Bt-W6Eow/hjkrhuihghfvu/1754815529/9789232/index-f2-v1-a1.m3u8
 
@@ -1399,6 +1420,7 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2025%20-%20La%20Vida%20es%20Dif%C3%ADcil.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eY8zJX8SjzAVyGV19YsJzK186Md.jpg" group-title="Series|Las aventuras de los Super Hermanos Mario",Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
 
 
 
