@@ -1,6 +1,12 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/HSMposter.jpg",High School Musical
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZjMGJkYjEtMDhhYy00YmZiLWIyZDYtZTg0YWRiYjA3YjY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",High School Musical 3: La graduación
+https://ia601606.us.archive.org/29/items/h-1gh-sch-00l-musical-3-la-graduacion-hd-1080p-528180/H1gh_Sch00l_Musical_3__La_Graduacion_HD__1080p___528180.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/High_School_Musical_2_poster.jpg",High School Musical 2
+https://ia601606.us.archive.org/29/items/h-1gh-sch-00l-musical-3-la-graduacion-hd-1080p-528180/H1gh_Sch00l_Musical_2_HD__720p___531478.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/HSMposter.jpg",High School Musical
 https://ia601606.us.archive.org/29/items/h-1gh-sch-00l-musical-3-la-graduacion-hd-1080p-528180/H1gh_Sch00l_Musical_HD__1080p___528504.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ibb.co/C7c0Ky1/gigantes.jpg",Pequeños Gigantes (1994)
@@ -1393,6 +1399,7 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2025%20-%20La%20Vida%20es%20Dif%C3%ADcil.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eY8zJX8SjzAVyGV19YsJzK186Md.jpg" group-title="Series|Las aventuras de los Super Hermanos Mario",Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
 
 
 
