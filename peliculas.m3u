@@ -1,6 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pKw4x7r/stuart.jpg",Stuart Little. Un Ratón En La Familia
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/HSMposter.jpg",High School Musical
+https://ia601606.us.archive.org/29/items/h-1gh-sch-00l-musical-3-la-graduacion-hd-1080p-528180/H1gh_Sch00l_Musical_HD__1080p___528504.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ibb.co/C7c0Ky1/gigantes.jpg",Pequeños Gigantes (1994)
+https://ia801606.us.archive.org/10/items/peque-oz-gig-4nt-hd-720p-1122957/Peque_Oz_Gig4nt%27%24_HD__720p___1122957.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images.justwatch.com/poster/105298005/s718/cars-3.jpg",Cars 3 (2017)
+https://ia601608.us.archive.org/8/items/c-4rs-hd-720p-699968/C4r%27s_3_DVDRip__1391944.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images.justwatch.com/poster/99686877/s718/cars-2.jpg",Cars 2 (2011)
+https://ia601608.us.archive.org/8/items/c-4rs-hd-720p-699968/C4r%27s_2_DVDRip__1351798.mp4
+
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://pics.filmaffinity.com/Cars-201232415-large.jpg",Cars (2006)
+https://ia601608.us.archive.org/8/items/c-4rs-hd-720p-699968/C4r%27s_HD__720p___699968.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ibb.co/pKw4x7r/stuart.jpg",Stuart Little. Un Ratón En La Familia
 https://ia601605.us.archive.org/33/items/strt-lie-hd-720p-1114547/Strt_Lie_HD__720p___1114547.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/8ugEwdEy6uriGtjQRNjKx4z7Sj6.jpg",   Un Ratoncito duro de Cazar
@@ -1378,6 +1393,7 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2025%20-%20La%20Vida%20es%20Dif%C3%ADcil.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eY8zJX8SjzAVyGV19YsJzK186Md.jpg" group-title="Series|Las aventuras de los Super Hermanos Mario",Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
 
 
 
