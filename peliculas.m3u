@@ -1,5 +1,20 @@
 #EXTM3U
 
+
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ibb.co/BVb2Lf7/SIMPSON.jpg",Los Simpson: La película (2007)
+https://ia601604.us.archive.org/30/items/lo-simpson-pel-1cul-4-hd-720p-972715/LoSimpsonPel1cul4_HD__720p___972715.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Madagascar3-Poster.jpg/250px-Madagascar3-Poster.jpg",Madagascar 3: los fugitivos (2012)
+https://ia601602.us.archive.org/1/items/mad-4r-3-dvdrip-1365006/Mad4r_3_DVDRip__1365006.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ibb.co/vj39ntG/light.jpg",Buzz Lightyear Comando Estelar: La aventura comienza (2000)
+https://ia601603.us.archive.org/29/items/bo0uzz-lighty-3ar-coma-dvdrip-549709/Bo%E2%81%B0uzz_Lighty3arComaDVDRip__549709.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ibb.co/x2YVHPR/looney.jpg",Looney Tunes: De nuevo en acción (2003)
+https://ia601601.us.archive.org/17/items/l0-0ney-1078713/L%E2%81%B00ney1078713.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZjMGJkYjEtMDhhYy00YmZiLWIyZDYtZTg0YWRiYjA3YjY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",High School Musical 3: La graduación
 https://ia601606.us.archive.org/29/items/h-1gh-sch-00l-musical-3-la-graduacion-hd-1080p-528180/H1gh_Sch00l_Musical_3__La_Graduacion_HD__1080p___528180.mp4
 
@@ -1399,6 +1414,7 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2025%20-%20La%20Vida%20es%20Dif%C3%ADcil.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eY8zJX8SjzAVyGV19YsJzK186Md.jpg" group-title="Series|Las aventuras de los Super Hermanos Mario",Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
 
 
 
