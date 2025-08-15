@@ -1,5 +1,27 @@
 #EXTM3U
+
 ===================== Acción ==============
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/hXUgpAB6CQNTfMZ6hCUtEM8rdVS.jpg",[Acción] Luz negra (2022)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2FVer%20Blacklight%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/gwqR9UY0xqBZwP2qb8ZPmf9b2lq.jpg",[Acción] Creed I (2015)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisfeb23%2FVer%20Creed-%20Coraz%C3%B3n%20de%20campe%C3%B3n%20(2015)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/3IhGkkalwXguTlceGSl8XUJZOVI.jpg",[Acción] Hypnotic (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Hypnotic%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://image.tmdb.org/t/p/w500/7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg",[Acción] El pacto (The Covenant) (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20El%20Pacto%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",[Acción] Misión imposible: Sentencia mortal (2023)
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Misi%C3%B3n-%20Imposible%20-%20Sentencia%20mortal%20parte%20uno%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/9YZeyalCdYtrJ4U6hl2J9cyI8iq.jpg",[Acción] Ángeles de Charlie
+http://ia801506.us.archive.org/27/items/0_20200218_20200218/300.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Comando_Kill-186890325-large.jpg",[Acción] Comando Kill
+http://ia801500.us.archive.org/17/items/000_20191202_20191202/4.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/ojavJiW2YPeZhePBLTrZ8jwdp8l.jpg",[Acción] Conan
 http://ia801508.us.archive.org/27/items/ConanElDestructorLat1080/conan%20el%20destructor%20lat%201080.mp4
@@ -42,6 +64,43 @@ https://zggg98sgwbg1gh.bitchute.com/XPOJ1Hq2IAl0/dgtzw71bDIFs.mp4
 
 
 ===================== comedia ==============
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg",[Comedia] A mi altura 2 (2022)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2F%E2%96%B7%20Ver%20A%20mi%20Altura%202%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/tPlJEodEn0SSV4avo8KSawtlTlN.jpg",[Comedia] El rescate de Ruby (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2F%E2%96%B7%20Ver%20El%20Rescate%20de%20Ruby%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/qNRsouZh5zmhaE3n4QpLDXzy1gQ.jpg",[Comedia] Doce en casa (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2F%5BPelicula%20Doce%20en%20casa%202022%5D%20Cheaper%20by%20the%20Dozen%20Ver%20Online%20%E2%80%94%20Cuevana%20Video.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/oifhfVhUcuDjE61V5bS5dfShQrm.jpg",[Comedia] El gran perro rojo (2021)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2FVer%20Clifford%2C%20el%20Gran%20Perro%20Rojo%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/61HI8GuxJ+L._AC_UF894,1000_QL80_.jpg", [Comedia] 31 Minutos: La película
+http://archive.org/download/31m1nu70/31M%2C%20La%20Pelicula.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/3_idiotas-394677796-large.jpg",[Comedia] 3 Idiotas
+http://ia601405.us.archive.org/26/items/000_20200306_202003/03.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Action_Point-226342363-large.jpg",[Comedia] Action Point
+http://archive.org/download/ap94vid20104xwoe0/AP394vId2010904xwoe0Q.mp4
+
+#EXTINF:-1 group-title="peliculas", tvg-logo="https://i.pinimg.com/474x/e6/16/97/e616977e768d6bee30bb62af43794e48.jpg", [Comedia] Ahí viene el cascarrabias
+http://ia801505.us.archive.org/18/items/yevadi_jbnote_00/00.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/92/94/88/20226785.jpg",[Comedia] Colegas del barrio
+http://ia801402.us.archive.org/13/items/000_20200227/03.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/dg6RRpk0W1N8NWMmdLvPRgTsstD.jpg",[Comedia] Chicos buenos
+http://ia801504.us.archive.org/29/items/000_20200127_202001/2.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.originalfilmart.com/cdn/shop/products/meangirls_2004_original_film_art_600x.jpg?v=1594782123",[Comedia] Chicas pesadas
+http://ia801403.us.archive.org/14/items/ciejrkr/ciejrkr.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU5ZmZjNDUtYzBiZS00NWVlLTgwMjAtM2M2OGFmM2M4MmRkXkEyXkFqcGc@._V1_.jpg", [Comedia] Al diablo con el diablo
+http://archive.org/download/0trece/3.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://play-lh.googleusercontent.com/d-mVSwpPGHbWoDZOLAfQTAne9fZ5VAZ5BXEUJiMb1FvPFYDz5Y_3ddB_k-52VueykQ39",[Comedia] De tonta nada
 http://ia801400.us.archive.org/11/items/000_20200130_202001/5.mp4
@@ -123,6 +182,31 @@ https://zggg98sgwbg1gh.bitchute.com/XPOJ1Hq2IAl0/HchTiXYXqSo1.mp4
 
 ===================== ciencia ficción ==============
 
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMwYWVjYzMtNmNiMS00YmI3LWIxNDYtYTQ5MTZkMDA1ZGQwXkEyXkFqcGc@._V1_.jpg",[Acción] Bad Boys for Life (Opc2)
+http://ia601503.us.archive.org/14/items/0_20200407_20200407_1605/01.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/articles/24300/244689/primer-poster-de-aves-de-presa-con-margot-robbie-como-harley-quinn-original.jpg",[Acción] Aves de presa
+http://ia601508.us.archive.org/23/items/00_20200409/03.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/A1inGqJJHXL.jpg",[Acción] Avengers: Endgame (2019) (Opc2)
+http://ia601507.us.archive.org/16/items/e4dg1me/e4dg1me.mp4
+
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQzODQ3NzMtYmUwNi00MDZhLTg1MmEtYmZmMzIyNjhlNjg0XkEyXkFqcGc@._V1_.jpg",[Acción] Atentado en el estadio (Opc2)
+http://ia601503.us.archive.org/19/items/000_20191209_20191209_1845/1.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2018/12/Afiche-atentadoenelestadio.jpg",[Acción] Atentado en el estadio
+http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/1.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmMzMmUyNzYtNTQyMi00Zjg1LWIxNWItODE5YzViMzJmMWVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",[Ciencia ficción] Beyond White Space
+http://ia601502.us.archive.org/34/items/232G3DGG5HGYK5ZAH1LZ6/0aiabw520000.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/7ec29f123bc306453324643d54edcbeac414338707951be888a626aef1f3ed9c.jpg", [Ciencia ficción] Beyond White Space (Opc2)
+http://ia601502.us.archive.org/33/items/3_20191128_20191128/3.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/23/11/09/10/08/5252753.jpg",[Ciencia ficción] Código 8
+http://ia601402.us.archive.org/21/items/000_20200104_20200104_1517/3.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxMTczNTA4Nl5BMl5BanBnXkFtZTgwNDAyMzgwODM@._V1_FMjpg_UX1000_.jpg",[Ciencia ficción] I Am Mother
 http://ia601502.us.archive.org/23/items/0o2b38sn29s1/0a7wbs51b00.mp4
 
@@ -147,6 +231,12 @@ ttps://seed171.bitchute.com/XPOJ1Hq2IAl0/COrf60g1hEZF.mp4
 
 ===================== terror ==============
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/vcym9A0idLCFI1iIMRFiXKRvnbs.jpg",[Terror] Mal de ojo (2022)
+https://d1yei2z3i6k35z.cloudfront.net/2104853/63b59d73c6cd0_19MDONumero4k_T.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/%D9%BE%D9%86%D8%AC%D8%AA%D9%87_%D9%BE%D8%A7_%D8%AC%D8%A4%D8%AF%D8%A7.png", [Terror] A 47 metros de ti
+http://ia801504.us.archive.org/7/items/000_20200306_20200306_0448/06.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/65/16/95/20103292.jpg",[Terror] Cromosoma 3
 http://ia902800.us.archive.org/12/items/1057214727/1057214727.mp4
 
@@ -165,6 +255,28 @@ https://zn21g5kls-n995.bitchute.com/XPOJ1Hq2IAl0/EhUPfk9ofWHQ.mp4
 
 
 ===================== fantasia ==============
+
+
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://pics.filmaffinity.com/Original_Sylvanian_Families_Serie_de_TV-108104850-large.jpg",[Fantasía] Sylvanian Families: La Película – El Regalo de Freya
+http://ia902200.us.archive.org/26/items/Peliculas-wii/Sylvanian%20Families%20La%20Pelicula%20-%20El%20regalo%20de%20Freya.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ0ZDM0MDYtZGI4YS00YjI5LTllNjktODI4YWZjYzA3MTkzXkEyXkFqcGc@._V1_.jpg",[Fantasía] Bleach
+http://ia601504.us.archive.org/20/items/sototo_patonce_04/04.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDLYsO-6lgvTFX9B0U3lNkkDy1dA2Tbd0tgQ&s",[Fantasía] Boku no Hero Academia Película 1: Futari no Hero
+http://archive.org/download/bbkk4loi5tg/bbkk4loi5tg.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://moviefilmsla.wordpress.com/wp-content/uploads/2018/07/christopher_robin_posterlat3_mf.jpg",[Fantasía] Christopher Robin: Un reencuentro inolvidable
+http://ia801500.us.archive.org/18/items/suwigaf_acucre_01/01.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/91ZUmHq+gKL.jpg",[Fantasía] Cómo entrenar a tu dragón
+http://ia801501.us.archive.org/29/items/000_20200317_20200317/01.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/how_to_train_your_dragon_2-253866491-large.jpg",[Fantasía] Cómo entrenar a tu dragón 2
+http://ia601501.us.archive.org/29/items/000_20200317_20200317/002.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/06/08/16/12/1223663.jpg",[Fantasía] Cómo entrenar a tu dragón 3
+http://ia801501.us.archive.org/29/items/000_20200317_20200317/03.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/15/01/26/13/38/226702.jpg",[Fantasía] El libro de la vida
 http://ia601407.us.archive.org/35/items/kevomisig_directmail24_0002/0002.mp4
@@ -310,6 +422,15 @@ https://zggg98sgwbg1gh.bitchute.com/XPOJ1Hq2IAl0/qEuCHSyEFXkb.mp4
 
 ================== Acción ============================
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://images.cdn1.buscalibre.com/fit-in/360x360/40/21/402135de29b277dd8afeb26e04c335a4.jpg",[Acción] Abraham Lincoln: Cazador de vampiros
+http://archive.org/download/angel_erika_92_hotmail_0/AbrahanLinconCazadorDeVampiros.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Bloodshot-756712882-large.jpg",[Acción] Bloodshot
+http://ia601509.us.archive.org/28/items/000_20200324_20200324_2252/02.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q1Y2M2YzMtODZmNi00NjdmLTljMzgtZWJlOTkzZWIzMTZmXkEyXkFqcGc@._V1_.jpg" ,[Acción] Black and Blue
+http://ia801505.us.archive.org/28/items/000_20200122/2.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fc3d973085d5f2afd1f0272ee78dedc27933de2fe11e9c585599bb0f2efca0d5.jpg",[Acción] Jumanji: Next Level
 http://ia601404.us.archive.org/17/items/00000_20200414_0245/02.mp4
 
@@ -326,6 +447,25 @@ https://seed306.bitchute.com/XPOJ1Hq2IAl0/KVik8gZHl0At.mp4
 
 ===================== Ciencia ficción =============================
 
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg",[Ciencia ficción] La guerra del mañana (2021)
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/pelicujulio%2FVer%20La%20guerra%20del%20ma%C3%B1ana%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/c3/6a/c6/c36ac6ca1fba1ff7b7bd2a778832d8fa.jpg",[Ciencia ficción] Akira
+http://archive.org/download/0_20200417_202004/1.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/11/01/3655834.jpg",[Ciencia ficción] Ad Astra (2019)
+http://ia801406.us.archive.org/4/items/000_20200129_20200129_0445/2.mp4
+
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://www.supercines.com/MovieImages/20250109Mov003/xxhdpi.jpg",[Ciencia ficción] Apocalipsis
+http://ia601505.us.archive.org/20/items/000_20200317_20200317_1332/06.mp4
+
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVmODg3OTgtOGZhNS00YWJhLWJiMDgtYWQyYTI3Mzk3YTQ5XkEyXkFqcGc@._V1_.jpg" ,[Ciencia ficción] Amenaza en lo profundo
+http://ia801400.us.archive.org/7/items/000_20200402/07.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMzNWUxOGUtYTVjMS00NzY5LTliMmQtM2YzMWJjM2MzZTVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", [Ciencia ficción] Alien Warfare
+http://ia801409.us.archive.org/33/items/ziduyaliri_mail-register_002/002.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://www.benitomovieposter.com/catalog/images/movieposter/30702.jpg",[Ciencia ficción] Corto circuito 2
 http://ia601406.us.archive.org/4/items/000_20200129_20200129_0445/3.mp4
 
@@ -337,6 +477,11 @@ http://ia601401.us.archive.org/12/items/000_20191205_201912/2.mp4
 
 ====================== Drama ===============================
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/bwvoSRyXRRqtpvoHYhySQk2U4EM.jpg",[Drama] El violín de mi padre (2022)
+https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2F%E2%96%B7%20Ver%20El%20Viol%C3%ADn%20de%20mi%20Padre%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ebayimg.com/images/g/E0wAAOSwd4FieOJO/s-l1200.jpg",[Drama] Between Worlds
+http://ia601502.us.archive.org/34/items/232G3DGG5HGYK5ZAH1LZ6/913G3FEE4CKLCFEUWW9SA.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDhjZWQ3NjctYTJkOS00MTlmLWFkNTAtOTE2NWYwNjRhMjRhXkEyXkFqcGc@._V1_.jpg",[Drama] La maravilla
 http://ia601504.us.archive.org/29/items/000_20200127_202001/1.mp4
@@ -344,277 +489,163 @@ http://ia601504.us.archive.org/29/items/000_20200127_202001/1.mp4
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/03/5442885.jpg",[Drama] Joker
 http://ia601401.us.archive.org/10/items/000_20191221/3.mp4
 
-
-
-
-==================================================
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/91ZUmHq+gKL.jpg",[Fantasía] Cómo entrenar a tu dragón
-http://ia801501.us.archive.org/29/items/000_20200317_20200317/01.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/how_to_train_your_dragon_2-253866491-large.jpg",[Fantasía] Cómo entrenar a tu dragón 2
-http://ia601501.us.archive.org/29/items/000_20200317_20200317/002.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/06/08/16/12/1223663.jpg",[Fantasía] Cómo entrenar a tu dragón 3
-http://ia801501.us.archive.org/29/items/000_20200317_20200317/03.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Comando_Kill-186890325-large.jpg",[Acción] Comando Kill
-http://ia801500.us.archive.org/17/items/000_20191202_20191202/4.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/92/94/88/20226785.jpg",[Comedia] Colegas del barrio
-http://ia801402.us.archive.org/13/items/000_20200227/03.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/23/11/09/10/08/5252753.jpg",[Ciencia ficción] Código 8
-http://ia601402.us.archive.org/21/items/000_20200104_20200104_1517/3.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://moviefilmsla.wordpress.com/wp-content/uploads/2018/07/christopher_robin_posterlat3_mf.jpg",[Fantasía] Christopher Robin: Un reencuentro inolvidable
-http://ia801500.us.archive.org/18/items/suwigaf_acucre_01/01.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/dg6RRpk0W1N8NWMmdLvPRgTsstD.jpg",[Comedia] Chicos buenos
-http://ia801504.us.archive.org/29/items/000_20200127_202001/2.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.originalfilmart.com/cdn/shop/products/meangirls_2004_original_film_art_600x.jpg?v=1594782123",[Comedia] Chicas pesadas
-http://ia801403.us.archive.org/14/items/ciejrkr/ciejrkr.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDLYsO-6lgvTFX9B0U3lNkkDy1dA2Tbd0tgQ&s",[Fantasía] Boku no Hero Academia Película 1: Futari no Hero
-http://archive.org/download/bbkk4loi5tg/bbkk4loi5tg.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Bloodshot-756712882-large.jpg",[Acción] Bloodshot
-http://ia601509.us.archive.org/28/items/000_20200324_20200324_2252/02.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ0ZDM0MDYtZGI4YS00YjI5LTllNjktODI4YWZjYzA3MTkzXkEyXkFqcGc@._V1_.jpg",[Fantasía] Bleach
-http://ia601504.us.archive.org/20/items/sototo_patonce_04/04.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q1Y2M2YzMtODZmNi00NjdmLTljMzgtZWJlOTkzZWIzMTZmXkEyXkFqcGc@._V1_.jpg" ,[Acción] Black and Blue
-http://ia801505.us.archive.org/28/items/000_20200122/2.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmMzMmUyNzYtNTQyMi00Zjg1LWIxNWItODE5YzViMzJmMWVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",[Ciencia ficción] Beyond White Space
-http://ia601502.us.archive.org/34/items/232G3DGG5HGYK5ZAH1LZ6/0aiabw520000.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/7ec29f123bc306453324643d54edcbeac414338707951be888a626aef1f3ed9c.jpg", [Ciencia ficción] Beyond White Space (Opc2)
-http://ia601502.us.archive.org/33/items/3_20191128_20191128/3.mp4
-
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.ebayimg.com/images/g/E0wAAOSwd4FieOJO/s-l1200.jpg",[Drama] Between Worlds
-http://ia601502.us.archive.org/34/items/232G3DGG5HGYK5ZAH1LZ6/913G3FEE4CKLCFEUWW9SA.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMwYWVjYzMtNmNiMS00YmI3LWIxNDYtYTQ5MTZkMDA1ZGQwXkEyXkFqcGc@._V1_.jpg",[Acción] Bad Boys for Life (Opc2)
-http://ia601503.us.archive.org/14/items/0_20200407_20200407_1605/01.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/articles/24300/244689/primer-poster-de-aves-de-presa-con-margot-robbie-como-harley-quinn-original.jpg",[Acción] Aves de presa
-http://ia601508.us.archive.org/23/items/00_20200409/03.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/A1inGqJJHXL.jpg",[Acción] Avengers: Endgame (2019) (Opc2)
-http://ia601507.us.archive.org/16/items/e4dg1me/e4dg1me.mp4
-
-#EXTINF:-1 group-title="peliculas"  tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQzODQ3NzMtYmUwNi00MDZhLTg1MmEtYmZmMzIyNjhlNjg0XkEyXkFqcGc@._V1_.jpg",[Acción] Atentado en el estadio (Opc2)
-http://ia601503.us.archive.org/19/items/000_20191209_20191209_1845/1.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2018/12/Afiche-atentadoenelestadio.jpg",[Acción] Atentado en el estadio
-http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/1.mp4
-
-#EXTINF:-1 group-title="peliculas"  tvg-logo="https://www.supercines.com/MovieImages/20250109Mov003/xxhdpi.jpg",[Ciencia ficción] Apocalipsis
-http://ia601505.us.archive.org/20/items/000_20200317_20200317_1332/06.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/9YZeyalCdYtrJ4U6hl2J9cyI8iq.jpg",[Acción] Ángeles de Charlie
-http://ia801506.us.archive.org/27/items/0_20200218_20200218/300.mp4
-
-#EXTINF:-1 group-title="peliculas"  tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVmODg3OTgtOGZhNS00YWJhLWJiMDgtYWQyYTI3Mzk3YTQ5XkEyXkFqcGc@._V1_.jpg" ,[Ciencia ficción] Amenaza en lo profundo
-http://ia801400.us.archive.org/7/items/000_20200402/07.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjMzNWUxOGUtYTVjMS00NzY5LTliMmQtM2YzMWJjM2MzZTVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg", [Ciencia ficción] Alien Warfare
-http://ia801409.us.archive.org/33/items/ziduyaliri_mail-register_002/002.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Alaska_salvaje_Miniserie_de_TV-893374922-mmed.jpg" ,[Documental] ALASKA SALVAJE  DOCUMENTAL COMPLETO
-http://archive.org/download/009_20200823/006.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU5ZmZjNDUtYzBiZS00NWVlLTgwMjAtM2M2OGFmM2M4MmRkXkEyXkFqcGc@._V1_.jpg", [Comedia] Al diablo con el diablo
-http://archive.org/download/0trece/3.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/c3/6a/c6/c36ac6ca1fba1ff7b7bd2a778832d8fa.jpg",[Ciencia ficción] Akira
-http://archive.org/download/0_20200417_202004/1.mp4
-
-#EXTINF:-1 group-title="peliculas", tvg-logo="https://i.pinimg.com/474x/e6/16/97/e616977e768d6bee30bb62af43794e48.jpg", [Comedia] Ahí viene el cascarrabias
-http://ia801505.us.archive.org/18/items/yevadi_jbnote_00/00.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.sincroguia.tv/uploads/series/grandes-documentales-africa-extrema-poster-37406_V.jpg",[Documental] África extrema
-http://archive.org/download/009_20200823/001.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/10/11/01/3655834.jpg",[Ciencia ficción] Ad Astra (2019)
-http://ia801406.us.archive.org/4/items/000_20200129_20200129_0445/2.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Action_Point-226342363-large.jpg",[Comedia] Action Point
-http://archive.org/download/ap94vid20104xwoe0/AP394vId2010904xwoe0Q.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://images.cdn1.buscalibre.com/fit-in/360x360/40/21/402135de29b277dd8afeb26e04c335a4.jpg",[Acción] Abraham Lincoln: Cazador de vampiros
-http://archive.org/download/angel_erika_92_hotmail_0/AbrahanLinconCazadorDeVampiros.mp4
-
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fa8a173332637620d4ad81453a8bd8e87c198bb47a86f0bde36ca95768268937.jpg",[Drama] 8 Millas
 http://archive.org/download/imagen-1_202005/4.mp4
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/61HI8GuxJ+L._AC_UF894,1000_QL80_.jpg", [Comedia] 31 Minutos: La película
-http://archive.org/download/31m1nu70/31M%2C%20La%20Pelicula.mp4
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/3_idiotas-394677796-large.jpg",[Comedia] 3 Idiotas
-http://ia601405.us.archive.org/26/items/000_20200306_202003/03.mp4
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/28/00/53/2054844.jpg",[Romance] A todos los chicos P.D. Todavía te quiero
-http://archive.org/download/5_20200304_20200304/7.mp4
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/%D9%BE%D9%86%D8%AC%D8%AA%D9%87_%D9%BE%D8%A7_%D8%AC%D8%A4%D8%AF%D8%A7.png", [Terror] A 47 metros de ti
-http://ia801504.us.archive.org/7/items/000_20200306_20200306_0448/06.mp4
+====================== Documental ============================
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA1OGFjMGQtZjI2Ny00YjU2LWFhYTAtNjMxNWU3OTRkMDFlXkEyXkFqcGc@._V1_.jpg" ,[Documental] 95 MUNDOS
 http://archive.org/download/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn/jcbdkfjbfhfdncn0jcbdkfjbfhfdncn1jcbdkfjbfhfdncn.mp4
 
-#EXTINF:-1 group-title="peliculas"  tvg-logo="https://pics.filmaffinity.com/Original_Sylvanian_Families_Serie_de_TV-108104850-large.jpg",[Fantasía] Sylvanian Families: La Película – El Regalo de Freya
-http://ia902200.us.archive.org/26/items/Peliculas-wii/Sylvanian%20Families%20La%20Pelicula%20-%20El%20regalo%20de%20Freya.mp4
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/vcym9A0idLCFI1iIMRFiXKRvnbs.jpg",[Terror] Mal de ojo (2022)
-https://d1yei2z3i6k35z.cloudfront.net/2104853/63b59d73c6cd0_19MDONumero4k_T.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/Alaska_salvaje_Miniserie_de_TV-893374922-mmed.jpg" ,[Documental] ALASKA SALVAJE  DOCUMENTAL COMPLETO
+http://archive.org/download/009_20200823/006.mp4
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/3IhGkkalwXguTlceGSl8XUJZOVI.jpg",[Acción] Hypnotic (2023)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Hypnotic%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://cdn.sincroguia.tv/uploads/series/grandes-documentales-africa-extrema-poster-37406_V.jpg",[Documental] África extrema
+http://archive.org/download/009_20200823/001.mp4
 
-#EXTINF:-1 group-title="peliculas"  tvg-logo="https://image.tmdb.org/t/p/w500/7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg",[Acción] El pacto (The Covenant) (2023)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20El%20Pacto%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
 
-#EXTINF:-1 group-title="peliculas"  tvg-logo="https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",[Acción] Misión imposible: Sentencia mortal (2023)
-https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Misi%C3%B3n-%20Imposible%20-%20Sentencia%20mortal%20parte%20uno%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
+========================= Romance ==================================
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg",[Ciencia ficción] La guerra del mañana (2021)
-https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/pelicujulio%2FVer%20La%20guerra%20del%20ma%C3%B1ana%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/20/01/28/00/53/2054844.jpg",[Romance] A todos los chicos P.D. Todavía te quiero
+http://archive.org/download/5_20200304_20200304/7.mp4
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg",[Comedia] A mi altura 2 (2022)
-https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2F%E2%96%B7%20Ver%20A%20mi%20Altura%202%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/bwvoSRyXRRqtpvoHYhySQk2U4EM.jpg",[Drama] El violín de mi padre (2022)
-https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2F%E2%96%B7%20Ver%20El%20Viol%C3%ADn%20de%20mi%20Padre%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+=================================================================
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/tPlJEodEn0SSV4avo8KSawtlTlN.jpg",[Comedia] El rescate de Ruby (2022)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2F%E2%96%B7%20Ver%20El%20Rescate%20de%20Ruby%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/qNRsouZh5zmhaE3n4QpLDXzy1gQ.jpg",[Comedia] Doce en casa (2022)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2F%5BPelicula%20Doce%20en%20casa%202022%5D%20Cheaper%20by%20the%20Dozen%20Ver%20Online%20%E2%80%94%20Cuevana%20Video.mp4
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/gwqR9UY0xqBZwP2qb8ZPmf9b2lq.jpg",[Acción] Creed I (2015)
-https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisfeb23%2FVer%20Creed-%20Coraz%C3%B3n%20de%20campe%C3%B3n%20(2015)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/oifhfVhUcuDjE61V5bS5dfShQrm.jpg",[Comedia] El gran perro rojo (2021)
-https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2FVer%20Clifford%2C%20el%20Gran%20Perro%20Rojo%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
 
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/hXUgpAB6CQNTfMZ6hCUtEM8rdVS.jpg",[Acción] Luz negra (2022)
-https://objectstorage.us-ashburn-1.oraclecloud.com/n/idvrlfgimket/b/cubostudio/o/peliculas%2Fpelisene%2FVer%20Blacklight%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",Muerte en el Nilo (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2F%E2%96%B7%20Ver%20Muerte%20en%20el%20Nilo%20(2022)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
@@ -1635,6 +1666,7 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2025%20-%20La%20Vida%20es%20Dif%C3%ADcil.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eY8zJX8SjzAVyGV19YsJzK186Md.jpg" group-title="Series|Las aventuras de los Super Hermanos Mario",Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
 
 
 
