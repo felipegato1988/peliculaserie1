@@ -8,6 +8,21 @@ http://archive.org/download/5_20200304_20200304/7.mp4
 ===================== Acción ==============
 
 
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMwYWVjYzMtNmNiMS00YmI3LWIxNDYtYTQ5MTZkMDA1ZGQwXkEyXkFqcGc@._V1_.jpg",[Acción] Bad Boys for Life (Opc2)
+http://ia601503.us.archive.org/14/items/0_20200407_20200407_1605/01.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/articles/24300/244689/primer-poster-de-aves-de-presa-con-margot-robbie-como-harley-quinn-original.jpg",[Acción] Aves de presa
+http://ia601508.us.archive.org/23/items/00_20200409/03.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/A1inGqJJHXL.jpg",[Acción] Avengers: Endgame (2019) (Opc2)
+http://ia601507.us.archive.org/16/items/e4dg1me/e4dg1me.mp4
+
+#EXTINF:-1 group-title="peliculas"  tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQzODQ3NzMtYmUwNi00MDZhLTg1MmEtYmZmMzIyNjhlNjg0XkEyXkFqcGc@._V1_.jpg",[Acción] Atentado en el estadio (Opc2)
+http://ia601503.us.archive.org/19/items/000_20191209_20191209_1845/1.mp4
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2018/12/Afiche-atentadoenelestadio.jpg",[Acción] Atentado en el estadio
+http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/1.mp4
+
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/w500/lB068qa6bQ0QKYKyC2xnYGvYjl7.jpg",[Acción] La purga por siempre (2021)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisjul%2FVer%20La%20Purga-%20Infinita%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 
@@ -486,21 +501,6 @@ http://ia601406.us.archive.org/4/items/000_20200129_20200129_0445/3.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/OVNI_No_estamos_solos-864911387-large.jpg",[Ciencia ficción] OVNI: No estamos solos
 http://ia601401.us.archive.org/12/items/000_20191205_201912/2.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMwYWVjYzMtNmNiMS00YmI3LWIxNDYtYTQ5MTZkMDA1ZGQwXkEyXkFqcGc@._V1_.jpg",[Acción] Bad Boys for Life (Opc2)
-http://ia601503.us.archive.org/14/items/0_20200407_20200407_1605/01.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.mubis.es/media/articles/24300/244689/primer-poster-de-aves-de-presa-con-margot-robbie-como-harley-quinn-original.jpg",[Acción] Aves de presa
-http://ia601508.us.archive.org/23/items/00_20200409/03.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/I/A1inGqJJHXL.jpg",[Acción] Avengers: Endgame (2019) (Opc2)
-http://ia601507.us.archive.org/16/items/e4dg1me/e4dg1me.mp4
-
-#EXTINF:-1 group-title="peliculas"  tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQzODQ3NzMtYmUwNi00MDZhLTg1MmEtYmZmMzIyNjhlNjg0XkEyXkFqcGc@._V1_.jpg",[Acción] Atentado en el estadio (Opc2)
-http://ia601503.us.archive.org/19/items/000_20191209_20191209_1845/1.mp4
-
-#EXTINF:-1 group-title="peliculas" tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2018/12/Afiche-atentadoenelestadio.jpg",[Acción] Atentado en el estadio
-http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/1.mp4
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmMzMmUyNzYtNTQyMi00Zjg1LWIxNWItODE5YzViMzJmMWVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",[Ciencia ficción] Beyond White Space
 http://ia601502.us.archive.org/34/items/232G3DGG5HGYK5ZAH1LZ6/0aiabw520000.mp4
@@ -1521,6 +1521,7 @@ https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20M
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2025%20-%20La%20Vida%20es%20Dif%C3%ADcil.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eY8zJX8SjzAVyGV19YsJzK186Md.jpg" group-title="Series|Las aventuras de los Super Hermanos Mario",Las aventuras de los Super Hermanos Mario - E26 La Amenaza Venecia
 https://archive.org/download/las-aventuras-de-los-super-hermanos-mario/Super%20Mario%20Bros%203%20-%2026%20-%20La%20Amenaza%20Venecia.mp4
+
 
 
 
